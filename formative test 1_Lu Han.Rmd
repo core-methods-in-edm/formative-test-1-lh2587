@@ -1,5 +1,5 @@
 ---
-title: "formative test 1"
+title: "Formative Test 1_ Lu Han"
 author: "Lu Han"
 date: "2017年10月17日"
 output: html_document
